@@ -106,7 +106,7 @@
     <div class="logo">
         <pre> __<br>|__| _____   ____  ______<br>|  |/     \ / ___\/  ___/<br>|  |  Y Y  / /_/  \___ \<br>|__|__|_|  \___  /____  ><br>         \/_____/     \/</pre>
     </div>
-    <p><a href="https://github.com/Bayesia-SAS/imgs" target="_blank">v1.2.1 - Made with love from Laval, France </a></p>
+    <p><a href="https://github.com/Bayesia-SAS/imgs" target="_blank">v1.2.2</a> - <a href="https://www.bayesia.com">Made with love from Laval, France </a></p>
 
 </main>
 </body>
